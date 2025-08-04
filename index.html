@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Captura e Download JPG</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Captura Manual do Card</h1>
+
+    <input type="file" id="imageInput" accept="image/*">
+
+    <div class="card" id="imageCard">
+      <div class="image-wrapper" id="cardToCapture">
+        <img id="previewImage" src="" alt="Prévia da imagem">
+      </div>
+
+      <div class="controls">
+        <button id="zoomIn">+</button>
+        <button id="zoomOut">-</button>
+      </div>
+
+      <button id="downloadJPG" class="download-btn">Baixar JPG</button>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
