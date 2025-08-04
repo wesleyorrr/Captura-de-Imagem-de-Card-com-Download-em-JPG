@@ -37,7 +37,8 @@ Este sistema funciona em:
 - Ideal para sistemas que exigem captura manual para envio posterior via WhatsApp, e-mail, etc.
 
 ---
-
+📲 [Clique aqui para acessar a versão ao vivo no GitHub Pages](https://wesleyoliveira.github.io/card-capture-download)
+---
 ## ✨ Desenvolvido por
 
 Wesley Oliveira
