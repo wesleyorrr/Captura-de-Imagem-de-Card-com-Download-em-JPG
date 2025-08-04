@@ -1,0 +1,1 @@
+# Captura-de-Imagem-de-Card-com-Download-em-JPG
